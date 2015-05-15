@@ -104,6 +104,7 @@ KeyboardLayout {
         DeadKey {
 	        caption: "´"
         	captionShifted: "´"
+			fixedWidth: null
         }
     }
 
