@@ -116,7 +116,7 @@ KeyboardLayout {
         AccentedCharacterKey {
             caption: "z"
             captionShifted: "Z"
-            symView: "6"
+            symView: "@"
             symView2: "%"
             accents: "zžźż"
             accentsShifted: "ZŽŹŻ"
